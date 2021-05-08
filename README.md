@@ -6,7 +6,7 @@ In the dataset from Kaggle , we have taken various data depends on prediction of
 With the Help of ML and LR this model works.
 
 ## Notebook
-[HERE]()
+[HERE](https://github.com/akshatprogrammer/Student_Grade_Prediction_Model/blob/main/Student_Grade_Prediction_Model.ipynb)
 
 # Connect With Me
 LinkedIn : https://www.linkedin.com/in/akshat-jain-a24baa18a/<br/>
